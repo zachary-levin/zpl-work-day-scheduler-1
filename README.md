@@ -1,5 +1,15 @@
 # Work Day Scheduler Starter Code
 
+## Goal
+The main goal of this project was to create a simple calendar application that allows a user to save events for each hour of the day.  
+
+## What I learned
+In this project, I learned how to use third-party APIs such as Moment.js to handle the date and time for the application, as well as utilize Bootstrap for adjusting the layout of elements.
+
+## Link to live version
+
+## 
+
 ## User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
