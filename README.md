@@ -5,7 +5,7 @@ The main goal of this project was to create a simple calendar application that a
 The project was made to provide users acess to a simple application that lets them schedule tasks in hour-long blocks, from 9 AM to 5 PM.
 
 ## What I learned
-In this project, I learned how to use third-party APIs such as Moment.js to handle the date and time for the application, as well as utilize Bootstrap for adjusting the layout of elements.
+In this project, I learned how to use third-party APIs such as Moment.js to handle the date and time for the application, as well as utilize Bootstrap for adjusting the layout of elements. I wish I also figured out how to properly space the rows and columns to make it more like the demonstration.
 
 ## Challenges of this project
 The challenges I faced with this project was not having as much time as I would like to work on this, and I feel that I did not understand Bootstrap as well as I did, especially with regards to the Grid system and Bootstrap theme colors. 
