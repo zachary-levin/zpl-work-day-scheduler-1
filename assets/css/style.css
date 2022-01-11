@@ -30,11 +30,20 @@ textarea{
   border-radius: 15px;
 }
 
+
+/* Trying to adjust height of rows to match demonstration */
+
 .row {
   white-space: pre-wrap;
-  height: 80px;
+  height: 120px;
   border-top: 1px solid white;;
 }
+
+/*
+.myrow {
+  height: 120px;
+}
+*/
 
 .hour {
   background-color: #ffffff;
